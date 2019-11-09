@@ -13,15 +13,15 @@ title: 栗林 健太郎
 
 <div class="row">
   <div class="col-sm">
-  <ul>
-    <li>ソフトウェアエンジニア</li>
-    <li>GMOペパボ株式会社取締役CTO</li>
-    <li>日本CTO協会理事</li>
-    <li>情報処理安全確保支援士（<a href="https://riss.ipa.go.jp/r?r=013258">登録番号：013258</a>）</li>
-  </ul>
+    <ul>
+      <li>ソフトウェアエンジニア</li>
+      <li>GMOペパボ株式会社取締役CTO</li>
+      <li>日本CTO協会理事</li>
+      <li>情報処理安全確保支援士（<a href="https://riss.ipa.go.jp/r?r=013258">登録番号：013258</a>）</li>
+    </ul>
   </div>
-  <div class="col-sm">
-    <img src="https://www.gravatar.com/avatar/23f4d5d797a91b6d17d627b90b5a42d9?s=100" class="img-thumbnail rounded float-right">
+  <div class="col-sm-2">
+    <img src="https://www.gravatar.com/avatar/23f4d5d797a91b6d17d627b90b5a42d9?s=100" class="img-thumbnail rounded">
   </div>
 </div>
 

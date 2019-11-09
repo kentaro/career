@@ -2,6 +2,3 @@ languageCode = "ja-jp"
 title = "栗林 健太郎"
 theme = "vanilla-bootstrap-hugo-theme"
 googleAnalytics = "UA-136101963-1"
-
-[params]
-  containerMaxWidth = "90%"
