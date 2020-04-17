@@ -109,6 +109,7 @@ title: 栗林 健太郎
 
 #### 2020年
 
+* 栗林健太郎, [これから情報技術を学ぶ方々へ](https://speakerdeck.com/kentaro/for-those-who-study-information-technology?slide=6), バンタンテックフォードアカデミー特別授業, 2020年4月.
 * 栗林健太郎, 田中邦裕, 藤川真一, 鷲北賢, パネルディスカッション / 技術革新と未来とビジネス, [SAKURAJIMA HOUSE 2020](https://www.sakurajima-house.tech/), 2020年2月.
 * 関喜史, 栗林健太郎, 鷲北賢, 松本亮介, パネルディスカッション / 企業の研究所のあり方とやっていき, [さくらの夕べ 研究所ナイト - さくらのイベント（九州版）](https://sakura-kyushu.doorkeeper.jp/events/101240), 2020年1月.
 
