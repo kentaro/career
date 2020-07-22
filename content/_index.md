@@ -110,6 +110,7 @@ title: 栗林 健太郎
 
 #### 2020年
 
+* 栗林健太郎, 長瀬慶重, 小林篤, 矢上聡洋, 村瀨龍馬, パネルディスカッション / ニューノーマル 〜コロナ禍を機に起きた変化と未来のわたし達〜, [【オンライン開催】BIT VALLEY 2020 Kickoff ～CTOスペシャルセッション～ - connpass](https://sbv.connpass.com/event/181786/), 2020年7月.
 * 栗林健太郎, 黒瀧悠太, 松岡宏満, 中窪悟, 永田司, パネルディスカッション, [【オンライン開催】いまだからこそスタートする、これからも活用できるリモートワークのイロハ](https://markmeizan.connpass.com/event/172640/), 2020年4月.
 * 栗林健太郎, [これから情報技術を学ぶ方々へ](https://speakerdeck.com/kentaro/for-those-who-study-information-technology), バンタンテックフォードアカデミー特別授業, 2020年4月.
 * 栗林健太郎, 田中邦裕, 藤川真一, 鷲北賢, パネルディスカッション / 技術革新と未来とビジネス, [SAKURAJIMA HOUSE 2020](https://www.sakurajima-house.tech/), 2020年2月.
